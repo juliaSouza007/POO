@@ -2,8 +2,8 @@
 //importar a classe Scanner
 import java.util.Scanner;
 
-//Classe olhaAbomba - Scanner
-class olhaAbomba {
+//Classe OlhaAbomba - Scanner
+class OlhaAbomba {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Sera que passou de ano?");
