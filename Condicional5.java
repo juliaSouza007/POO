@@ -2,8 +2,8 @@
 //importar a classe Scanner
 import java.util.Scanner;
 
-//Classe oMaior - Scanner
-class oMaior {
+//Classe OMaior - Scanner
+class OMaior {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Qual o maior numero?");
