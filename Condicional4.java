@@ -2,8 +2,8 @@
 //importar a classe Scanner
 import java.util.Scanner;
 
-//Classe oConceito - Scanner
-class oConceito {
+//Classe OConceito - Scanner
+class OConceito {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Qual a sua nota conceito?");
