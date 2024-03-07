@@ -2,8 +2,8 @@
 //importar a classe Scanner
 import java.util.Scanner;
 
-//Classe multiploDe7 - Scanner
-class multiploDe7 {
+//Classe MultiploDe7 - Scanner
+class MultiploDe7 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Eh multiplo de 7?");
