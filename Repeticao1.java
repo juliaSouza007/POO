@@ -1,7 +1,4 @@
 //Parte 3-a:
-//importar a classe Scanner
-import java.util.Scanner;
-
 //Classe ImprimirNumeros - Scanner
 class ImprimirNumeros {
     //Bloco main
