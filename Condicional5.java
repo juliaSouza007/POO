@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Classe OMaior - Scanner
-class OMaior {
+public class Condicional5 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Qual o maior numero?");
