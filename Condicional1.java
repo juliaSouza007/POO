@@ -1,31 +1,31 @@
-//Parte 2-a:
-//importar a classe Scanner
+// Parte 2-a:
+// Importar a classe Scanner
 import java.util.Scanner;
 
-//Classe ImparPar - Scanner
-class ImparPar {
-    //Bloco main
-	public static void main (String[] args) {
-	    System.out.println("Impar ou par?");
-	    
-	    //variavel para guardar o numero 
-	    int numero;
-		
-		  //criar um objeto para o scanner coletar o valor
-      Scanner input = new Scanner(System.in);
-        
-      //pedir ao usuario para digitar um numero:
-      System.out.print("Digite um numero inteiro qualquer: ");
-      numero = input.nextInt(); //lê o número fornecido pelo usuário, e armazena em 'numero'
-        
-      //descobrir se eh impar ou par
-      if(numero % 2 == 0) {
-          System.out.println("eh par!");
-      } else {
-          System.out.println("eh impar!");
-      }
-        
-      //fechar o scanner para evitar vazamentos de dados
-      input.close();
-	}
+// Classe ImparPar - Scanner
+public class ImparPar {
+    // Bloco main
+    public static void main(String[] args) {
+        System.out.println("Impar ou par?");
+
+        // Variável para guardar o número
+        int numero;
+
+        // Criar um objeto para o scanner coletar o valor
+        Scanner input = new Scanner(System.in);
+
+        // Pedir ao usuário para digitar um número:
+        System.out.print("Digite um numero inteiro qualquer: ");
+        numero = input.nextInt(); // Lê o número fornecido pelo usuário e armazena em 'numero'
+
+        // Descobrir se é ímpar ou par
+        if (numero % 2 == 0) {
+            System.out.println("É par!");
+        } else {
+            System.out.println("É impar!");
+        }
+
+        // Fechar o scanner para evitar vazamentos de dados
+        input.close();
+    }
 }
