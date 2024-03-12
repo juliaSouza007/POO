@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Classe MultiploDe7 - Scanner
-public class MultiploDe7 {
+public class Condicional2 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Eh multiplo de 7?");
