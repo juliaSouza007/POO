@@ -1,6 +1,6 @@
 //Parte 3-d:
 //Classe ImprimirFatorial
-class ImprimirFatorial {
+public class Repeticao4 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Calcular fatorial de 12");
