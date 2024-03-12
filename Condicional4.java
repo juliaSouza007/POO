@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Classe OConceito - Scanner
-class OConceito {
+public class Condicional4 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Qual a sua nota conceito?");
