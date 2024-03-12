@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Classe OlhaAbomba - Scanner
-public class OlhaAbomba {
+public class Condicional3 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Sera que passou de ano?");
