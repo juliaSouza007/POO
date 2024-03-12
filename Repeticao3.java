@@ -1,6 +1,6 @@
 //Parte 3-b:
 //Classe ImprimirMultiplo7
-class ImprimirMultiplo7 {
+public class Repeticao3 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Imprimir multiplos de 7 entre 1 e 100");
