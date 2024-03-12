@@ -1,6 +1,6 @@
 //Parte 3-b:
-//Classe ImprimirSoma - Scanner
-class ImprimirSoma {
+//Classe ImprimirSoma
+public class Repeticao2 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Imprimir a soma entre 100 e 1000");
