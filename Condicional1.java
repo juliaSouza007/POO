@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 // Classe ImparPar - Scanner
-public class ImparPar {
+public class Condicional1 {
     // Bloco main
     public static void main(String[] args) {
         System.out.println("Impar ou par?");
