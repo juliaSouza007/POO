@@ -1,6 +1,6 @@
 //Parte 3-a:
-//Classe ImprimirNumeros - Scanner
-class ImprimirNumeros {
+//Classe ImprimirNumeros
+public class Repeticao1 {
     //Bloco main
 	public static void main (String[] args) {
 	    System.out.println("Imprimir numeros de 100 a 1000");
